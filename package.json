@@ -30,11 +30,11 @@
   "dependencies": {
     "bootable-di": "0.1.x",
     "scripts": "0.1.x",
-    "debug": "0.7.x"
+    "debug": "2.2.x"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
-    "chai": "1.x.x"
+    "mocha": "2.x.x",
+    "chai": "3.x.x"
   },
   "engines": {
     "node": ">= 0.4.0"
