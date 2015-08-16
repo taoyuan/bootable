@@ -1,9 +1,10 @@
 # Bootable
 
-[![Build](https://travis-ci.org/taoyuan/bootable.png)](https://travis-ci.org/taoyuan/bootable)
-[![Coverage](https://coveralls.io/repos/taoyuan/bootable/badge.png)](https://coveralls.io/r/taoyuan/bootable)
-[![Quality](https://codeclimate.com/github/taoyuan/bootable.png)](https://codeclimate.com/github/taoyuan/bootable)
-[![Dependencies](https://david-dm.org/taoyuan/bootable.png)](https://david-dm.org/taoyuan/bootable)
+[![NPM Version](https://img.shields.io/npm/v/bootable.svg?style=flat)](https://www.npmjs.org/package/bootable)
+[![Build Status](http://img.shields.io/travis/taoyuan/bootable.svg?style=flat)](https://travis-ci.org/taoyuan/bootable)
+[![Coverage](https://coveralls.io/repos/taoyuan/bootable/badge.svg?branch=master)](https://coveralls.io/r/taoyuan/bootable)
+[![Quality](https://codeclimate.com/github/taoyuan/bootable/badges/gpa.svg)](https://codeclimate.com/github/taoyuan/bootable)
+[![Dependencies](https://img.shields.io/david/taoyuan/bootable.svg?style=flat)](https://david-dm.org/taoyuan/bootable)
 
 
 Bootable is an extensible initialization layer for [Node.js](http://nodejs.org/)
